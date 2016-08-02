@@ -1,0 +1,245 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-23 14:49+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../app/DayBaseComponent.qml:86
+msgid "Day details"
+msgstr "Détails de la journée"
+
+#: ../app/DayBaseComponent.qml:89
+msgid "Day "
+msgstr "Journée du "
+
+#: ../app/DayBaseComponent.qml:96
+msgid "Parashat "
+msgstr "Parashat "
+
+#: ../app/DayBaseComponent.qml:116
+msgid "(click to expand)"
+msgstr "(cliquer pour élargir)"
+
+#: ../app/DayBaseComponent.qml:138
+msgid "Shabat Times"
+msgstr "Périodes de Shabat"
+
+#: ../app/DayBaseComponent.qml:140
+msgid "Holyday Times"
+msgstr "Périodes fériées"
+
+#: ../app/DayBaseComponent.qml:142
+msgid "Fast Times"
+msgstr "Périodes de jeûne"
+
+#: ../app/DayBaseComponent.qml:144
+msgid "Holyday and Shabat Times"
+msgstr "Périodes fériées et de Shabat"
+
+#: ../app/DayBaseComponent.qml:158
+msgid "Candle light"
+msgstr "Allumage des bougies"
+
+#: ../app/DayBaseComponent.qml:164
+msgid "Three stars"
+msgstr "Trois étoiles"
+
+#: ../app/DayBaseComponent.qml:176
+msgid "Three stars czhish"
+msgstr "Trois étoiles czhish"
+
+#: ../app/DayBaseComponent.qml:188
+msgid "Three stars RT (72 minute)"
+msgstr "Trois étoiles RT (72 minutes)"
+
+#: ../app/DayBaseComponent.qml:200
+msgid "Day times"
+msgstr "Moments de la journée"
+
+#: ../app/DayBaseComponent.qml:203
+msgid "First ligth (mga)"
+msgstr "Première lueur (MGA)"
+
+#: ../app/DayBaseComponent.qml:208
+msgid "First light"
+msgstr "Première lueur"
+
+#: ../app/DayBaseComponent.qml:213
+msgid "Talit"
+msgstr "Talit"
+
+#: ../app/DayBaseComponent.qml:218
+msgid "Sunrise"
+msgstr "Levée du soleil"
+
+#: ../app/DayBaseComponent.qml:223
+msgid "End shema (mga)"
+msgstr "End shema (MGA)"
+
+#: ../app/DayBaseComponent.qml:228
+msgid "End shema"
+msgstr "End shema"
+
+#: ../app/DayBaseComponent.qml:233
+msgid "End tefila mga"
+msgstr "End tefila (MGA)"
+
+#: ../app/DayBaseComponent.qml:238
+msgid "End tefila"
+msgstr "End tefila"
+
+#: ../app/DayBaseComponent.qml:243
+msgid "Midday"
+msgstr "Mi-journée"
+
+#: ../app/DayBaseComponent.qml:248
+msgid "Big mincha"
+msgstr "Grande mincha"
+
+#: ../app/DayBaseComponent.qml:253
+msgid "Little mincha"
+msgstr "Petite mincha"
+
+#: ../app/DayBaseComponent.qml:258
+msgid "Plug mincha"
+msgstr "Mincha à la bougie"
+
+#: ../app/DayBaseComponent.qml:263
+msgid "Sunset"
+msgstr "Coucher du soleil"
+
+#: ../app/DayBaseComponent.qml:268
+msgid "First stars"
+msgstr "Premières étoiles"
+
+#: ../app/DayView.qml:38 ../app/MonthView.qml:38 ../app/YearView.qml:35
+msgid "Today"
+msgstr "Aujourd'hui"
+
+#: ../app/LocationDialog.qml:17
+msgid "Edit Location"
+msgstr "Modifier l'emplacement"
+
+#: ../app/LocationDialog.qml:17
+msgid "New Location"
+msgstr "Nouvel emplacement"
+
+#: ../app/LocationDialog.qml:20
+msgid "Some Place"
+msgstr "Quelque part"
+
+#: ../app/LocationDialog.qml:25
+msgid ""
+"You can find long and lat <a href='http://www.latlong.net/'>here</a><br>if "
+"you get wrong times, check this."
+msgstr ""
+"Vous pouvez trouver votre longitude et votre latitude <a href='http://www.latlong.net/'>ici.</a><br>Si "
+"vous obtenez des heures incorrectes, vérifiez ceci."
+
+#: ../app/LocationDialog.qml:31
+msgid "use you GPS"
+msgstr "Utilisez votre GPS"
+
+#: ../app/LocationDialog.qml:66
+msgid ""
+"You can find TimeZone <a href='http://en.wikipedia.org/wiki/"
+"List_of_tz_database_time_zones'>here</a><br>if you get wrong times, check "
+"this."
+msgstr ""
+"Vous pouvez trouver les fuseaux horaires <a href='https://fr.wikipedia.org/wiki/"
+"Fuseau_horaire'>ici.</a><br>Si vous obtenez des heures incorrectes, vérifiez "
+"ceci."
+
+#: ../app/LocationDialog.qml:87
+msgid "Dont leave empty fileds!"
+msgstr "Ne laissez pas de champs vides !"
+
+#: ../app/LocationDialog.qml:92
+msgid "save"
+msgstr "Enregistrer"
+
+#: ../app/LocationDialog.qml:113
+msgid "Location Name already exist"
+msgstr "Ce nom d'emplacement existe déjà"
+
+#: ../app/LocationDialog.qml:153
+msgid "cancel"
+msgstr "Annuler"
+
+#: ../app/Main.qml:76
+msgid "Year"
+msgstr "Année"
+
+#: ../app/Main.qml:110
+msgid "Month"
+msgstr "Mois"
+
+#: ../app/Main.qml:139
+msgid "Day"
+msgstr "Jour"
+
+#: ../app/Main.qml:171 ../app/SettingsView.qml:17
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../app/SettingsView.qml:115
+msgid "Global"
+msgstr "Général"
+
+#: ../app/SettingsView.qml:123
+msgid "Second Yom Tov:"
+msgstr "Second Yom Tov :"
+
+#: ../app/SettingsView.qml:134
+msgid "Location"
+msgstr "Emplacement"
+
+#: ../app/SettingsView.qml:214
+msgid "Times Of Day"
+msgstr "Moments de la journée"
+
+#: ../app/SettingsView.qml:218
+msgid "Candle Light"
+msgstr "Allumage des bougies"
+
+#: ../app/SettingsView.qml:232
+msgid "Sefirat HaOmer"
+msgstr "Sefirat HaOmer"
+
+#: ../app/SettingsView.qml:236
+msgid "Nosach Sefirat HaOmer:"
+msgstr "Nosach Sefirat HaOmer :"
+
+#: ../app/SettingsView.qml:237
+msgid "Ashkenazi"
+msgstr "Ashkenazi"
+
+#: ../app/SettingsView.qml:238
+msgid "Hasidic"
+msgstr "Hasidic"
+
+#: ../app/SettingsView.qml:239
+msgid "Mizrachi"
+msgstr "Mizrachi"
+
+#: ../app/YearView.qml:49
+#, qt-format
+msgid "Year %1"
+msgstr "Année %1"
+
+#: /home/avi/qt/build-hebrew-calendar-qml-UbuntuSDK_for_armhf_GCC_ubuntu_sdk_15_04_vivid-Default/po/hebrew-calendar.desktop.in.h:1
+msgid "Hebrew Calendar"
+msgstr "Calendrier hébreu"
